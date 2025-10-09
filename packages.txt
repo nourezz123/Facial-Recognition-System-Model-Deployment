@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 cmake
 libgl1
+=======
+cmake
+build-essential
+libgl1-mesa-glx
+libglib2.0-0
+
+
+
+>>>>>>> 12d6fb793a335141dfecf4137cf6e4cf275c7113
