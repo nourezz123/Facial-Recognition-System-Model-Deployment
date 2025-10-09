@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Name,Confidence (%),Timestamp
 Aaron_Peirsol,63.96,2025-09-26 19:55:43
 Aaron_Peirsol,63.96,2025-09-26 20:24:42
@@ -17,7 +16,5 @@ Al_Pacino,55.84,2025-09-26 22:36:45
 Al_Cardenas,71.46,2025-09-26 22:36:57
 Al_Cardenas,71.46,2025-09-26 22:37:01
 Al_Cardenas,71.46,2025-09-26 22:37:30
-=======
 Name,Confidence (%),Timestamp
 Aaron_Peirsol,63.96,2025-09-26 19:55:43
->>>>>>> 12d6fb793a335141dfecf4137cf6e4cf275c7113
