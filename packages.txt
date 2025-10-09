@@ -1,9 +1,13 @@
-cmake
-libgl1
+# Essential build tools for dlib/face-recognition compilation
 cmake
 build-essential
-libgl1-mesa-glx
-libglib2.0-0
+libatlas-base-dev
 
+# Libraries for OpenCV and general graphical/display support
+libsm6
+libxext6
+libfontconfig1
+libice6
+libglib2.0-0
 
 
